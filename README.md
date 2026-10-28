@@ -4,3 +4,4 @@
 ## 프로젝트 문서
 
 - [프로젝트 제안서 v0.1](docs/product/project-proposal.md): 서비스 방향, 첫 버전 제안, 사용자 검증, 개발 방식과 회의 안건
+- [유스케이스 v0.1](docs/product/use-cases.md): 사용자 기능, 운영·자동화 기능, 참여자와 후속 상세 설계 항목
